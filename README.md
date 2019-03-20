@@ -1,2 +1,2 @@
 # REsearch
-A Reverse Engineering tools for parsing PE binaries
+A Reverse Engineering tool for parsing PE binaries
