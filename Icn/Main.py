@@ -1,7 +1,7 @@
 # Project Python ICN
 # Modified 28/04/2019
 # Subject : Analyse Binaire
-# By naslehaker
+# By nasm & cie
 
 
 import tkinter as tk
