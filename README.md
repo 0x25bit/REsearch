@@ -20,5 +20,7 @@ For install the script, you must just run Main.py
 # Platforms
 
 REsearch can be running on : 
+
 ```Unix/Linux (tested on Ubuntu)```
+
 ```Windows (tested on Win10)```
