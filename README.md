@@ -16,3 +16,9 @@ For install the script, you must just run Main.py
 
 
 ```pefile```
+
+# Platforms
+
+REsearch can be running on : 
+```Unix/Linux (tested on Ubuntu)```
+```Windows (tested on Win10)```
