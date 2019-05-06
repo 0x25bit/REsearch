@@ -1,7 +1,7 @@
 # Project Python ICN
 # Modified 28/04/2019
 # Subject : Tool de static analysis
-# By Paul Fouchard, Alexis Guerin, Marc Sonnemann-Riba
+# By nasm and anubilis
 
 
 import tkinter as tk
